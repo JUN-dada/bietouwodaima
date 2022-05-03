@@ -1,0 +1,46 @@
+*{
+    text-decoration:none;
+    color: aliceblue;
+}
+body
+{
+    margin: 0;
+    font-family: -apple-system;
+    text-display: block;
+    text-decoration:none;
+}
+
+#topbander
+{
+
+    width: 100%;
+    height: 6vh;
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    position: absolute;
+    z-index: 1;
+}
+
+#topbander,ul,li
+{
+    line-height: 3vh;
+    list-style: none;
+    float: left;
+}
+
+#topbandertext
+{
+    float: right;
+    margin-right: 6%;
+}
+
+#top
+{
+    width: 100%;
+    height: 100vh;
+    min-height: 100%;
+    position: absolute;
+    z-index: -1;
+}
