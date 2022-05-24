@@ -64,11 +64,14 @@ public class userdao
         PreparedStatement ps = util.createStatement(sql);
         ps.setInt(1, Integer.parseInt(userId));
         int result = 0;
-        try {
+        try
+        {
             result = ps.executeUpdate();
-        } catch (SQLException e) {
+        } catch (SQLException e)
+        {
             e.printStackTrace();
-        } finally {
+        } finally
+        {
             util.close();
         }
         return result;
@@ -79,13 +82,13 @@ public class userdao
         String sql="select * from users where username=? and password=?";
         PreparedStatement ps = util.createStatement(sql);
         ResultSet rs = null;
-        int result = 0;
+        int result=0;
         try {
             ps.setString(1, username);
             ps.setString(2, password);
             rs = ps.executeQuery();
             while(rs.next()){
-                result =  rs.getInt("*");
+                result =  rs.getInt("userid");
             }
         } catch (SQLException e) {
             e.printStackTrace();

@@ -1,11 +1,15 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="untitled:war exploded">
+  <artifact type="war" name="untitled:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/untitled_war_exploded</output-path>
-    <root id="root">
+    <root id="archive" name="untitled_war exploded.war">
       <element id="javaee-facet-resources" facet="untitled/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="untitled" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.29 (2)" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" />
         </element>
       </element>
     </root>

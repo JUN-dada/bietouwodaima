@@ -10,39 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e941979-26ec-41af-80f5-a35864b79a0d" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/untitled_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_29__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/re.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zijun/contor/Servlet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zijun/contor/Servletdel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zijun/contor/loginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zijun/contor/userServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zijun/dao/userdao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zijun/entity/users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zijun/util/jdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.29.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/del.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/html/denglushibai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/html/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/html/shibai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/user_add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/zhucechenggong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/untitled_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/untitled_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/107586fb-cc77-4d2e-b441-14a9a3ffb9ed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/107586fb-cc77-4d2e-b441-14a9a3ffb9ed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zijun/contor/loginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zijun/contor/loginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zijun/contor/userServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zijun/contor/userServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zijun/dao/userdao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zijun/dao/userdao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zijun/util/jdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zijun/util/jdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/del.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/del.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/html/denglushibai.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/html/denglushibai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/html/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,34 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/zijun/Documents/java web/exercise3/untitled/web/html",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "工件",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zijun/Library/Mobile Documents/com~apple~CloudDocs/大一下Java期末项目/untitled&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web/html" />
@@ -121,6 +101,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 10.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -222,8 +203,26 @@
       <workItem from="1651491044241" duration="1038000" />
       <workItem from="1651492097338" duration="4119000" />
       <workItem from="1651537653676" duration="773000" />
-      <workItem from="1651538453114" duration="24673000" />
+      <workItem from="1651538453114" duration="28819000" />
+      <workItem from="1651585474229" duration="17000" />
+      <workItem from="1651648464186" duration="3942000" />
+      <workItem from="1651721658147" duration="2601000" />
+      <workItem from="1652077369692" duration="16000" />
+      <workItem from="1653099090911" duration="135000" />
+      <workItem from="1653099394531" duration="4435000" />
+      <workItem from="1653107706495" duration="315000" />
+      <workItem from="1653202813462" duration="806000" />
+      <workItem from="1653286656939" duration="6461000" />
+      <workItem from="1653375697252" duration="2249000" />
     </task>
+    <task id="LOCAL-00001" summary="变更">
+      <created>1651565755316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651565755316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,5 +238,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="变更" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
 </project>

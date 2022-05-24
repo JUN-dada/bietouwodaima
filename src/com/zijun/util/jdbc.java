@@ -52,7 +52,6 @@ public class jdbc {
         map.put(con, true);
 
     }
-    //-------------通过全局作用域对象得到Connetion-----------start
 
     //将jar包中driver实现类加载到JVM中
     static{
@@ -103,7 +102,6 @@ public class jdbc {
         }
 
     }
-
 
     public  void close(ResultSet rs)
     {
