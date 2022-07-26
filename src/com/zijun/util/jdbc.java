@@ -8,7 +8,7 @@ import java.util.Map;
 public class jdbc {
     final String URL="jdbc:mysql://localhost:3306/exercise?&useSSL=false&serverTimezone=UTC";
     final String USERNAME="root";
-    final String PASSWORD="0638531086zzJ?";
+    final String PASSWORD="";
     PreparedStatement ps= null;
     Connection con = null;
 
